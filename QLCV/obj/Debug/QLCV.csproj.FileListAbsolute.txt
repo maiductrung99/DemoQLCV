@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.Form1.resources
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\QLCV.exe.config
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\QLCV.exe
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\QLCV.pdb
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\QLCV\QLCV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.csproj.CopyComplete
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.exe
+C:\Users\Administrator\source\repos\QLCV\QLCV\obj\Debug\QLCV.pdb

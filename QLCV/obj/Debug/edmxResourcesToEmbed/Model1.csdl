@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CongViecModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Congviec">
+    <Key>
+      <PropertyRef Name="MaCV" />
+    </Key>
+    <Property Name="MaCV" Type="Int32" Nullable="false" />
+    <Property Name="TenCV" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Nguoitao" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Ngaytao" Type="DateTime" Precision="0" />
+    <Property Name="Nguoithuchien" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Ngayhoanthanh" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="CongViecEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Congviecs" EntityType="Self.Congviec" />
+  </EntityContainer>
+</Schema>

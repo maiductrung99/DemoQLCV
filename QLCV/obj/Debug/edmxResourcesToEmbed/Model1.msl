@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CongViecModelStoreContainer" CdmEntityContainer="CongViecEntities">
+    <EntitySetMapping Name="Congviecs">
+      <EntityTypeMapping TypeName="CongViecModel.Congviec">
+        <MappingFragment StoreEntitySet="Congviec">
+          <ScalarProperty Name="MaCV" ColumnName="MaCV" />
+          <ScalarProperty Name="TenCV" ColumnName="TenCV" />
+          <ScalarProperty Name="Nguoitao" ColumnName="Nguoitao" />
+          <ScalarProperty Name="Ngaytao" ColumnName="Ngaytao" />
+          <ScalarProperty Name="Nguoithuchien" ColumnName="Nguoithuchien" />
+          <ScalarProperty Name="Ngayhoanthanh" ColumnName="Ngayhoanthanh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
